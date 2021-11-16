@@ -1,8 +1,7 @@
 ## Table of Contents
 
 - [Live Server](#live-server)
-- [How to run](#how-to-run)
-- [About Project](#about-project)
+- [About Project]
 
 ## Live Server
 
