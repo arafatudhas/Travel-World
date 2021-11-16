@@ -1,0 +1,21 @@
+.banner {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://i.ibb.co/5Lh09rp/pexels-flo-maderebner-238622.jpg") center center/cover no-repeat
+      fixed;
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 991px) {
+  .banner {
+    min-height: 90vh;
+  }
+}
+
+@media (max-width: 767px) {
+  .banner {
+    min-height: 100vh;
+  }
+}
