@@ -1,7 +1,3 @@
-# Travel-Booking-related-website-mehedisarkar2k
-
-## Hello welcome to [Travel Vila](https://travel-vila.web.app/).
-
 ## Table of Contents
 
 - [Live Server](#live-server)
@@ -10,23 +6,9 @@
 
 ## Live Server
 
-https://travel-vila.web.app/
+https://travel-world007.netlify.app/
 
-## How to run
 
-1. Clone this repository
-   ```sh
-   git clone https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-mehedisarkar2k
-   ```
-2. Run
-   ```sh
-   yarn
-   ```
-3. Then run to see project in live server
-   ```sh
-   yarn start
-   ```
-4. This app should be available in http://localhost:3000/
 
 ## About Project
 
